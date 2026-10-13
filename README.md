@@ -1,2 +1,2 @@
 # Junk-removal
-# index.html
+# docs/index.html
